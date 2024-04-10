@@ -4,7 +4,7 @@
 
 This project is a command-line application that generates a professional README.md file for new projects. It prompts the user to input information about their project and dynamically generates the README.md file based on the provided input.
 
-## Getting Started
+### Getting Started
 
 To use this README generator, you'll need to have Node.js installed on your computer.
 
@@ -14,7 +14,7 @@ Clone this repository to your local machine. Then, navigate to the project direc
 
 npm install
 
-## Usage
+### Usage
 
 Once the installation is complete, you can run the generator by executing the following command:
 
