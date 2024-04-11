@@ -73,7 +73,9 @@ ${data.tests}
 
 For questions about the project, please contact at [${
     data.username
-  }](https://github.com/${data.username}) or ${data.email}.
+  }](https://github.com/${data.username}) or <a href="mailto:${data.email}">${
+    data.email
+  }</a>..
 ${renderLicenseSection(data.license)}
 `;
 }
