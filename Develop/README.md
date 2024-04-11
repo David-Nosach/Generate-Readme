@@ -1,6 +1,6 @@
-# asdfasdf
+# proed
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
 
@@ -36,4 +36,4 @@ asdf
 For questions about the project, please contact at [David-Nosach](https://github.com/David-Nosach) or davidnosach@yahoo.com.
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the GPL 3.0 license.
