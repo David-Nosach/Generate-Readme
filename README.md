@@ -4,7 +4,7 @@
 
 This project is a command-line application that generates a professional README.md file for new projects. It prompts the user to input information about their project and dynamically generates the README.md file based on the provided input.
 
-Video Walk Through: https://drive.google.com/file/d/17I3dMIYx_zAJ9wEvqnfuekcswvWEBjru/view
+Walkthrough Video: https://drive.google.com/file/d/17I3dMIYx_zAJ9wEvqnfuekcswvWEBjru/view
 
 ### Getting Started
 
